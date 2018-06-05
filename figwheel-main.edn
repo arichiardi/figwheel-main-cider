@@ -1,0 +1,3 @@
+{;; :pprint-config true
+ :open-file-command "emacsclient"
+ :log-syntax-error-style :concise}

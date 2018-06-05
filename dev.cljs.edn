@@ -1,0 +1,11 @@
+{:main example.core
+ :output-to "out/example.js"
+ :output-dir "out"
+ :optimizations :none
+ :source-map true
+ :source-map-timestamp false
+ :target :nodejs
+ :static-fns true
+ :fn-invoke-direct true
+ :compiler-stats true
+ :install-deps false}
